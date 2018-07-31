@@ -1,0 +1,19 @@
+  h1{
+    color:magenta;
+    font-size: 200px;
+    font-style: oblique;
+  }
+
+  h2{
+    color:#00FF00;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 100px;
+    font-family: monospace;
+    }
+
+  ul{
+    color:#0070FF;
+    font-size: 70px;
+    font-family: impact;
+  }
